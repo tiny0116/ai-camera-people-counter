@@ -1,0 +1,12 @@
+# 基本環境 (建議使用 Python 3.9+)
+opencv-python==4.7.0.72
+torch>=1.9.0
+torchvision>=0.10.0
+ultralytics==8.0.0
+numpy==1.24.0
+
+# 若要使用 OpenAI GPT 4o (僅示意)，需安裝 openai
+# openai==0.27.0
+
+# 若需要語音/意圖解析再自行補充，如:
+# SpeechRecognition, pyAudio, etc.
